@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         //Задание 1
-        System.out.println("Задание 1");
+        System.out.println("Задание #1");
         int part = 29_000;
         int sum = 0;
         for (int i = 1; i <= 12; i++) {
